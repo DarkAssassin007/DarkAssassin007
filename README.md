@@ -42,7 +42,7 @@ class CybersecurityEnthusiast:
 - 💼 Seeking **remote internships** in Cybersecurity and Security Research
 
 ---
-
+<!--
 ## 🛡️ Featured Project
 
 ### 🔥 **Parental Firewall – Intelligent Home Network Content Filter**
@@ -74,7 +74,7 @@ UI: Tkinter, Custom Dashboard
 - Built intuitive GUI for non-technical users
 
 [View Project →](https://github.com/DarkAssassin007/parental-firewall)
-
+-->
 ---
 
 ## 🛠️ Cybersecurity Arsenal
