@@ -74,8 +74,10 @@ UI: Tkinter, Custom Dashboard
 - Built intuitive GUI for non-technical users
 
 [View Project →](https://github.com/DarkAssassin007/parental-firewall)
--->
+
 ---
+-->
+
 
 ## 🛠️ Cybersecurity Arsenal
 
