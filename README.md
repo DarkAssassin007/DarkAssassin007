@@ -183,7 +183,7 @@ graph LR
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkAssassin007&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![GitHub Stats]((https://github-readme-stats.vercel.app/api?username=DarkAssassin007&show_icons=true&theme=radical))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkAssassin007&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
 
